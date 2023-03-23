@@ -7,4 +7,5 @@
 <li>🌱 Estou sempre aprendendo e buscando maneiras de aprimorar minhas habilidades de programação. Meus interesses incluem desenvolvimento de jogos e sistemas web.</li>
 <li>👯 Estou aberto a colaborar em projetos open source que estejam alinhados com meus valores e objetivos. Se você tiver um projeto que acha que eu poderia ajudar, por favor, entre em contato!</li>
 </ul>
-[![Estatísticas do GitHub de Eduardo Araújo](https://github-readme-stats.vercel.app/api?username=edu-mx&show_icons=true&count_private=true&theme=radical)](https://github.com/edu-mx)
+
+![Minhas estatísticas](https://github-readme-stats.vercel.app/api?username=edu-mx&show_icons=true)
